@@ -1,0 +1,60 @@
+
+body
+{
+	margin: 0;
+	background-color: #4285F4;
+}
+
+main
+{
+  height: 40%;
+}
+
+#side-div
+{
+	float: left;
+	width: 10%;
+	height: 100%;
+}
+
+#side-div ul
+{
+	list-style-type: none;
+	padding: 0;
+}
+
+#side-div .control-btn
+{
+  width: 100%;
+  margin: 0 auto;
+  font-size: 20pt;
+}
+
+#container-canvas
+{
+	float: right;
+	width: 80%;
+	height: 40%;
+	margin: 0 auto;
+}
+
+#myCanvas
+{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	border-style: solid;
+	border-width: 20px;
+}
+
+#joint-range
+{
+	width: 100%;
+	margin: 0 auto;
+}
+
+#joint-range input
+{
+	width: 100%;
+	margin: 0 auto;
+}
