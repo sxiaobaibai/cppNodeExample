@@ -25,5 +25,5 @@ g++ -o cpp main.cc -I. -std=c++11
 ```
 
 ## Finish
-kill c++ program with ctrl+c.
-Then, kill node server with ctrl+c.
+kill c++ program by typing ctrl+c.
+Then, kill node server by typing ctrl+c.
