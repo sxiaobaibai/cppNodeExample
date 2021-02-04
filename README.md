@@ -9,15 +9,15 @@ If you stop c++ program, the red 3D cylinder also stop moving.
 
 
 ## How to start
-
-Start node server
+open two terminal.
+Start node server in the first terminal.
 ```
 cd node
 npm start
 ````
 Then, the node server will listen on port 3000 at localhost.
 
-Connect c++ program
+Connect c++ program in the second terminal.
 ```
 cd cpp
 g++ -o cpp main.cc -I. -std=c++11
