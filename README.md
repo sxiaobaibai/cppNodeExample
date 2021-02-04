@@ -13,6 +13,7 @@ open two terminal.
 Start node server in the first terminal.
 ```
 cd node
+npm install
 npm start
 ````
 Then, the node server will listen on port 3000 at localhost.
